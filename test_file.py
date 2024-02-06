@@ -3,4 +3,6 @@ class Game:
         self.name = name
         self.creator = creator
         self.pushdate = pushdate
+
+        
         
